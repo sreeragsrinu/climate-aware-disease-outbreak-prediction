@@ -172,5 +172,3 @@ BCA Data Science Student
 ## ⭐ Acknowledgement
 
 This project demonstrates how data science can be applied to solve real-world public health challenges using climate data and machine learning.
-
----
