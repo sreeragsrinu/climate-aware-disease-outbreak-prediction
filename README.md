@@ -113,7 +113,7 @@ This project builds a **machine learning-based prediction system** using climate
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/climate-aware-disease-outbreak-prediction.git
+git clone https://github.com/sreeragsrinu/climate-aware-disease-outbreak-prediction.git
 
 # Navigate to project folder
 cd climate-aware-disease-outbreak-prediction
